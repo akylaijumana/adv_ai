@@ -1,0 +1,7 @@
+cd      go into a folder
+ls      list files (Windows: dir)
+mkdir   create folder
+cat     show file content (Windows: type)
+ping    check connection to a host
+curl    make an HTTP request
+Ctrl+C  stop a running program
